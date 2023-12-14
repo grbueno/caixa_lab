@@ -16,19 +16,6 @@ requests.packages.urllib3.disable_warnings()
 
 
 
-# installations required
-
-#  sudo apt-get -y install python2.7
-
-#  sudo apt-get -y install python-requests
-
-#  to run:
-
-#      python2.7 exercise3.py apiuser mypassword 1
-
-
-
-
 
 print("Configuring Interface IPs and NAT")
 
