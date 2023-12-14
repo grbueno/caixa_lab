@@ -38,11 +38,6 @@ print("Configuring Interface IPs and NAT")
 
 server = "https://198.18.128.180"
 
-username = "henrique-api"
-
-password = "Brasilia#2021"
-
-
 
 ngfwvInsideZoneId  = ""
 
